@@ -1,2 +1,2 @@
 git one line revised.
-git two line.
+git two line append GPL.
