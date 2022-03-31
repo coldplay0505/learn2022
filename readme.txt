@@ -5,3 +5,4 @@ git tracks changes of files.
 creating a new branch is quick and simple.
 git merger in no fast-forward mode.
 git merger with ff mode.
+git merge with no-ff mode.
